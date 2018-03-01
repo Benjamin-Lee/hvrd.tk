@@ -1,4 +1,4 @@
-# hvrd.tk
+# [hvrd.tk](hvrd.tk)
 
 ## Instructions
 If you are trying to access an online resource that requires Harvard's institutional access, copy the URL and paste it into the box above. **Be sure to include _http://_.** You will be redirected to HarvardKey if you aren't currently signed in. You will then be redirected to your unlocked content.</p>
